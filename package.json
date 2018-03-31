@@ -17,7 +17,7 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/postmanlabs/npm-cli-login#readme",
   "dependencies": {
-    "npm-registry-client": "7.0.9"
+    "npm-registry-client": "^8.5.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",

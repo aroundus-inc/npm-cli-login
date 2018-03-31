@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -e;
 
+export PATH="${PATH}:./node_modules/.bin"
+
 echo "jscs v`jscs --version`";
 jscs lib bin;
 
